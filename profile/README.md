@@ -28,7 +28,7 @@ I’m not writing tutorials — just sharing my process in a way that’s honest
 - [GitHub](https://github.com/Daniel-s-LocalOps) for code  
 - [YouTube](https://www.youtube.com/@DanielsLocalOps) for build videos  
 - [Blog](http://localhost/) for updates and logs  
-- [LinkedIn]([https://twitter.com/](https://www.linkedin.com/in/daniel-richardson-935873151/)) for quick updates  
+- [LinkedIn](https://www.linkedin.com/in/daniel-richardson-935873151/) for quick updates  
 
 ---
 
