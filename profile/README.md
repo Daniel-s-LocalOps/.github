@@ -1,4 +1,4 @@
-# 🏡 Daniel’s LocalOps – Brand, Roadmap, and Strategy
+# 🏡 Daniel’s LocalOps – Roadmap, and Strategy
 
 ## 👋 Homepage Introduction
 
